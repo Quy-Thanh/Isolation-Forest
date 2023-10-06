@@ -33,6 +33,7 @@ If you would like to contribute to this project, follow the steps below:
 ## Contributors
 
 - [@Quy-Thanh](https://github.com/Quy-Thanh)
+- [@Duc-Anh](https://github.com/tempyemp)
 
 
 ## License
