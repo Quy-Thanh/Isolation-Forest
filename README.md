@@ -10,8 +10,14 @@
 
 ## Installation
 
-1. Clone this repository to your local machine: `git clone https://github.com/Quy-Thanh/BigData.git`
-2. Clone branch `git clone -b <branch-name> https://github.com/Quy-Thanh/BigData.git`
+1. Clone this repository to your local machine:
+```
+git clone https://github.com/Quy-Thanh/Isolation-Forest.git
+```
+3. Clone branch:
+```
+git clone -b <branch-name> https://github.com/Quy-Thanh/Isolation-Forest.git
+```
 
 ## Contributing
 
